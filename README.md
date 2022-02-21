@@ -1,5 +1,5 @@
 # Copyleft-Version-of-Bill-Paseman-s-Source-Code
-Bill_Normal.txt and Bill_Tumor.txt
+Bill_Normal.txt and Bill_Tumor.txt for p1RCC
 
 Patients hoping for a treatment for their rare, terminal disease have a problem.  Pharmaceutical companies are generally uninterested in creating treatments since the market is small and Independent researchers are stymied because hospitals will not publicly release the patient's data.  Fortuanately, patients are free to get copies of their own data and do with it as they wish.
 
