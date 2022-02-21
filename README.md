@@ -7,4 +7,4 @@ So since I consider my patient data to be "source code", I am releasing it openl
 
 To researchers: You get the general idea.  By making our data public, we hope to help you better your research.  In return, we hope our faith in you is justified.  Please honor that.
 
-To rare disease patients: I hope this idea works.  But even if it doesn't, it is still our data.  As a group, we can collect it and have some say as to how it is used.  Think about that.  If you want to talk, I'm bill@rarekidenycancer.org.
+To rare disease patients: I hope this idea works.  But even if it doesn't, it is still our data.  As a group, we can collect it and have some say as to how it is used.  Think about that.  If you want to talk, I'm bill@rarekidneycancer.org.
